@@ -9,6 +9,7 @@ Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网�
 
 01. 课程介绍
 02. Tailwind CSS导入方式 - 自编译方式
+03. Tailwind CSS导入方式 - Nuxt.js
 
 ## 课程文件
 
