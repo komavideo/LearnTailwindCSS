@@ -14,6 +14,7 @@ Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网�
 05. 边白与边框 - p and m
 06. tailwind.config.js - 定制自己的Tailwind CSS
 07. 引入我要的字体 - font, fontFamily
+08. 使用 Flexbox 布局 - flex
 
 ## 课程文件
 
