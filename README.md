@@ -16,6 +16,7 @@ Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网�
 07. 引入我要的字体 - font, fontFamily
 08. 使用 Flexbox 布局 - flex
 09. 响应式布局 - Responsive Layout CSS
+10. 做出我们自己的卡片 - Card
 
 ## 课程文件
 
