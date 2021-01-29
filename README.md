@@ -21,6 +21,7 @@ Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网�
 12. 复用自己的Card样式 - @apply
 13. 网格布局 - Grid
 14. 做几个自己用的按钮 - Buttons
+15. 使用矢量(SVG)图标 - icon svg
 
 ## 课程文件
 
